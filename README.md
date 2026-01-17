@@ -1,4 +1,5 @@
-![Architecture Diagram] (architecture.png)
+![Architecture Diagram]
+(architecture.png)
 
 # secure-ai-banking-architecture
 
